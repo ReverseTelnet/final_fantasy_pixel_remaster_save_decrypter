@@ -1,0 +1,54 @@
+###########  macOS Silliness  ###########
+.DS_Store
+
+
+
+###########  Python Silliness  ###########
+__pycache__*
+.python*
+
+
+
+###########  Environmental Variables and Secrets ###########
+.env*
+*.envrc*
+*environmental_variables*
+*simplified_credentials*
+*.git-credentials*
+
+
+
+###########  pyCharm Silliness  ###########
+.idea/
+.idea*
+
+
+
+###########  VSCode Silliness  ###########
+.vscode/
+.vscode*
+
+
+
+###########  Common Directories  ###########
+archive/
+samples/
+decrypted/
+encrypted/
+
+
+
+###########  Common Files  ###########
+slot*
+*.json
+*.sav
+*=
+
+
+
+###########  Self, Ignore, Copies  ###########
+
+.gitignore
+ignore*
+ignore/
+copy_of*
